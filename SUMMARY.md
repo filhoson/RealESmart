@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Down Payment Costs](down-payment-costs.md)
+* [Qualification](qualification.md)
 
