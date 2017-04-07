@@ -6,4 +6,5 @@
 * [Future Researhc](future-researhc.md)
 * [Investment Calculations](investment-calculations.md)
 * [Products](products.md)
+* [Planner Factory](planner-factory.md)
 
